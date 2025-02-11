@@ -2,10 +2,11 @@
 footer {
   background-color: #1F2130;
   color: white;
+  padding: 30px 10px;
 }
 
 .Neil-Bad-A {
-  max-width: 50%;
+  max-width: 35%;
 }
 
 body {
@@ -14,4 +15,8 @@ body {
 
 .display-flex {
   display: flex;
+}
+
+.justify-content-evenly {
+  justify-content: space-evenly;
 }
