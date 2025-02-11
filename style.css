@@ -2,7 +2,7 @@
 footer {
   background-color: #1F2130;
   color: white;
-  padding: 30px 10px;
+  padding: 3rem;
 }
 
 .Neil-Bad-A {
@@ -11,6 +11,24 @@ footer {
 
 body {
   margin: 0px;
+}
+
+header,
+main {
+  margin-left: 5rem;
+  margin-right: 5rem;
+}
+
+header {
+  /* margin-top: 3rem; */
+  padding-top: 3rem;
+  padding-bottom: 1rem;
+  margin-bottom: 3rem;
+  border-bottom: 2px solid black;
+}
+
+main {
+  margin-bottom: 5rem;
 }
 
 .display-flex {
