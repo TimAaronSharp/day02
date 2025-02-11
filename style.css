@@ -1,3 +1,17 @@
+/* NOTE Footer is our element selector */
 footer {
-  background-color: blue;
+  background-color: #1F2130;
+  color: white;
+}
+
+.Neil-Bad-A {
+  max-width: 50%;
+}
+
+body {
+  margin: 0px;
+}
+
+.display-flex {
+  display: flex;
 }
